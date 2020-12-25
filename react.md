@@ -21,7 +21,7 @@
 ## mounting
 - constructor()
 - render()
-- componentDidMount()
+- componentDidMount() : render할 때 가장 먼저 호출되는 method
 
 ## updating
 - render()
